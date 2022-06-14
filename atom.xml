@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>L&#39;s Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zl1398.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zl1398.github.io/"/>
   <updated>2022-06-13T09:04:18.694Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zl1398.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>路</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>今日说法</title>
-    <link href="http://example.com/2022/06/13/%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95/"/>
-    <id>http://example.com/2022/06/13/%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95/</id>
+    <link href="https://zl1398.github.io/2022/06/13/%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95/"/>
+    <id>https://zl1398.github.io/2022/06/13/%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95/</id>
     <published>2022-06-13T09:03:10.000Z</published>
     <updated>2022-06-13T09:04:18.694Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/06/13/hello-world/"/>
-    <id>http://example.com/2022/06/13/hello-world/</id>
+    <link href="https://zl1398.github.io/2022/06/13/hello-world/"/>
+    <id>https://zl1398.github.io/2022/06/13/hello-world/</id>
     <published>2022-06-13T08:58:45.128Z</published>
     <updated>2022-06-13T08:58:45.128Z</updated>
     

@@ -6,7 +6,7 @@
   <link href="https://zl1398.github.io/atom.xml" rel="self"/>
   
   <link href="https://zl1398.github.io/"/>
-  <updated>2022-06-13T09:04:18.694Z</updated>
+  <updated>2022-06-15T02:28:19.277Z</updated>
   <id>https://zl1398.github.io/</id>
   
   <author>
@@ -17,18 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Spring</title>
+    <link href="https://zl1398.github.io/2022/06/15/Spring/"/>
+    <id>https://zl1398.github.io/2022/06/15/Spring/</id>
+    <published>2022-06-15T01:36:07.000Z</published>
+    <updated>2022-06-15T02:28:19.277Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Spring"><a href="#Spring" class="headerlink" title="Spring"></a>Spring</h1><h3 id="IOC-控制反转"><a href="#IOC-控制反转" class="headerlink" title="IOC: 控制反转"></a>IOC: 控制反转</h3><p>即控制权的转移，将我们创建对象的方式反转了,以前对象的创建是由我们开发人员自己维护,包括依赖关系也是自己注入。使用了spring之后，对象的创建以及依赖关系可以由spring完成创建以及注入，反转控制就是反转了对象的创建方式，从我们自己创建反转给了程序创建(spring)</p><h3 id="DI-Dependency-Injection-依赖注入"><a href="#DI-Dependency-Injection-依赖注入" class="headerlink" title="DI:  Dependency Injection  依赖注入"></a>DI:  Dependency Injection  依赖注入</h3><p>spring这个容器中，替你管理着一系列的类，前提是你需要将这些类交给spring容器进行管理，然后在你需要的时候，不是自己去定义，而是直接向spring容器索取，当spring容器知道你的需求之后，就会去它所管理的组件中进行查找，然后直接给你所需要的组件.</p>]]></content>
+    
+    
+    <summary type="html">Spring</summary>
+    
+    
+    
+    
+    <category term="Java" scheme="https://zl1398.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>今日说法</title>
     <link href="https://zl1398.github.io/2022/06/13/%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95/"/>
     <id>https://zl1398.github.io/2022/06/13/%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95/</id>
     <published>2022-06-13T09:03:10.000Z</published>
-    <updated>2022-06-13T09:04:18.694Z</updated>
+    <updated>2022-06-15T02:30:01.962Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>hexo clean<br>hexo generate<br>hexo deploy</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;hexo clean&lt;br&gt;hexo generate&lt;br&gt;hexo deploy&lt;/p&gt;
+</summary>
       
     
     
